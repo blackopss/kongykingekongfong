@@ -1,2 +1,2 @@
-# Byte-Tech 
-Developers,
+# ByteTech
+--Bot Awesomeness!
